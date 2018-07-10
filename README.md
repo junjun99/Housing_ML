@@ -3,7 +3,7 @@ Basic intro to using numpy and sklearn. Predict house value using Linear Regress
 
 
 
-Notebook may not render on github due to sporadic errors on github's side (https://github.com/jupyter/notebook/issues/3555). If this error persists and you want to look at this project, please clone the repo by following the follwowing steps:
+Notebook may not render on github due to sporadic errors on github's side (https://github.com/jupyter/notebook/issues/3555). If this error persists and you want to look at this project, please clone the repo through the follwowing steps:
 
 - cd <your_working_directory> 
 - git clone https://github.com/junjun99/Housing_ML.git
